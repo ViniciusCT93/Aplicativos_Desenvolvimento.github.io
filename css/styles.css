@@ -1,0 +1,23 @@
+
+table {
+    border: 2px solid
+    black
+    /*width: 80%;*/
+   }
+
+   td {
+    border: 2px solid
+    green;
+    /*width 33%;*/
+   }
+
+
+body {
+    background-color:cyan;
+}
+
+section {
+    text-align: center;
+}
+
+
